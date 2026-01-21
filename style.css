@@ -249,3 +249,14 @@ footer h2 {
     color: var(--primary) !important;
 
 }
+
+/* Estilo para las imágenes de los proyectos */
+.project-img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px; /* Bordes suaves */
+    margin-bottom: 20px;
+    border: 1px solid #eee; /* Un marco sutil */
+    display: block;
+}
+
